@@ -4,8 +4,15 @@
         <description><![CDATA[avi]]></description>
         <link>https://thegrid.ai/avi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 06:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 06:20:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drafts = New Post]]></title>
+            <description><![CDATA[<p>How does a draft become a new post?</p>]]></description>
+            <link>https://thegrid.ai/avi/drafts-new-post/index.html</link>
+            <guid isPermaLink="false">5c4347d9-e21a-478b-aae6-63b34b42b341</guid>
+            <pubDate>Sat, 28 May 2016 06:20:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is the very first post on the beta testing of thegrid.io</p>]]></description>
